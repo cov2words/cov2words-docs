@@ -5,8 +5,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Full Documentation
 See the [Wiki](https://github.com/cov2words/cov2words-docs/wiki) for full documentation, examples, configuration details and other information.
+
 See Rest API documentation [here](http://api.cov2words.com/swagger-ui.html).
 
 ## Communication
 mail@cov2words.com
+
 cov2words.slack.com
